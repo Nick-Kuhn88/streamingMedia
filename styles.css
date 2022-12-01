@@ -306,7 +306,7 @@ html {
       background-color: #590242;
     }
     nav ul li a {
-      text-transformation: uppercase;
+      text-transform: uppercase;
     }
     .muzak {
       position: relative;
