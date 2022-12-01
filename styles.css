@@ -340,6 +340,7 @@ html {
         background-color: #0d8dfb;
         text-align: center;
         height: 150px;
+        padding-bottom: 10px;
     }
     .curated-playlist {
       display: grid;
@@ -357,6 +358,7 @@ html {
         text-align: center;
         margin: 10px;
         position: relative;
+        padding-bottom: 10px;
     }
   }
   
