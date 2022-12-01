@@ -159,18 +159,17 @@ html {
     text-align: left;
   }
   dt {
-  /*   padding-right: 5px; */
-    color: #590242;
-    padding-top: 0;
-    margin-top: 0;
-    margin-left: 5px;
-    font-style: italic;
-  }
-  dd {
-    margin-left: 10px;
-    padding-bottom: 10px;
-    margin-bottom: 10px;
-  }
+    /*   padding-right: 5px; */
+      position: absolute;
+      left: 5px;
+      bottom: 2px;
+      font-style: italic;
+    }
+    dd {
+      position: absolute;
+      left: 10px;
+      bottom: 2px;
+    }
   audio {
     position: absolute;
     bottom: 150px;
