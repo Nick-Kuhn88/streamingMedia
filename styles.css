@@ -149,6 +149,7 @@ html {
   }
   dl {
     display: flex;
+    position: relative;
     color: #590242;
   /*   padding-top: 0; */
   /*   margin-top: 0; */
